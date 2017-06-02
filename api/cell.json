@@ -1,0 +1,10 @@
+{
+  "hasMine": true,
+  "isFlagged": true,
+  "isRevealed": false,
+  "position": {
+    "row": 1,
+    "col": 0
+  },
+  "surroundingMines": 1
+}

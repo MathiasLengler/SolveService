@@ -10,9 +10,8 @@ lazy val root = (project in file(".")).
     name := "SolveService",
     libraryDependencies ++= Seq(
       "com.typesafe.akka" %% "akka-http"         % akkaHttpVersion,
-      "com.typesafe.akka" %% "akka-http-xml"     % akkaHttpVersion,
+      "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpVersion,
       "com.typesafe.akka" %% "akka-stream"       % akkaVersion,
-      "com.google.code.gson" % "gson" % "2.2.4",
       "com.typesafe.akka" %% "akka-http-testkit" % akkaHttpVersion % Test,
       "org.scalatest"     %% "scalatest"         % "3.0.1"         % Test
     )
