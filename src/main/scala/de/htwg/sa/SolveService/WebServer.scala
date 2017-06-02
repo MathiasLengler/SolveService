@@ -2,11 +2,9 @@ package de.htwg.sa.SolveService
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
-import akka.http.scaladsl.server.Directives
+import akka.http.scaladsl.server.{Directives, Route}
 import akka.stream.ActorMaterializer
-import com.example.routes.{BaseRoutes, SimpleRoutes}
 import de.htwg.sa.SolveService.routes.{BaseRoutes, SimpleRoutes}
-import de.htwg.se.SolveService.routes.{BaseRoutes, SimpleRoutes}
 
 import scala.io.StdIn
 
@@ -29,6 +27,6 @@ object WebServer extends Directives with SimpleRoutes {
 
   // Here you can define all the different routes you want to have served by this web server
   // Note that routes might be defined in separated traits like the current case
-  val routes = BaseRoutes.baseRoutes ~ simpleRoutes
+  val routes: Route = BaseRoutes.baseRoutes ~ simpleRoutes
 
 }
