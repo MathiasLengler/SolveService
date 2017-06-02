@@ -1,10 +1,10 @@
 package de.htwg.sa.SolveService.services
 
-import akka.http.scaladsl.server.{ Directives, Route }
 import akka.http.scaladsl.marshallers.sprayjson.SprayJsonSupport
+import akka.http.scaladsl.server.{Directives, Route}
+import minesweeper.model.impl.{Cell, Grid, GridFactory}
+import minesweeper.model.{ICell, IGrid}
 import spray.json._
-import minesweeper.model.impl.{ Cell, Grid, GridFactory }
-import minesweeper.model.{ ICell, ICellMutable, IGrid }
 
 import scala.collection.JavaConverters._
 
@@ -93,7 +93,7 @@ object GridService extends Directives with JsonSupport {
     } ~
       post {
         entity(as[IGrid[ICell]]) { grid =>
-          complete(grid.toString)
+          complete(grid)
         }
       }
 }
