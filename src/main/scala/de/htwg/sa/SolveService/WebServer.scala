@@ -10,9 +10,9 @@ import org.apache.log4j.PropertyConfigurator
 import scala.io.StdIn
 
 object WebServer extends Directives with SimpleRoutes {
-  def main(args: Array[String]) {
+  implicit val system = ActorSystem("my-system")
 
-    implicit val system = ActorSystem("my-system")
+  def main(args: Array[String]) {
     implicit val materializer = ActorMaterializer()
     // needed for the future flatMap/onComplete in the end
     implicit val executionContext = system.dispatcher
