@@ -3,7 +3,7 @@ package de.htwg.sa.SolveService.routes
 import akka.http.scaladsl.server.Directives._
 import akka.http.scaladsl.server.Route
 
-import de.htwg.sa.SolveService.services.GridService
+import de.htwg.sa.SolveService.services.SolveService
 
 /**
  * Routes can be defined in separated classes like shown in here
@@ -18,6 +18,6 @@ trait SimpleRoutes {
       }
     } ~
       path("solve") {
-        GridService.route
+        SolveService.route
       }
 }
