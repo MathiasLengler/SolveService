@@ -2,7 +2,6 @@ package de.htwg.sa.SolveService.protocol
 
 import minesweeper.model.impl.{Cell, Grid}
 import minesweeper.model.{ICell, IGrid}
-import minesweeper.solverplugin.impl.jacop.JacopSolver
 import minesweeper.solverplugin.impl.jacop.JacopSolver.SolveResult
 import spray.json._
 
