@@ -1,0 +1,2926 @@
+[
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 4
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 5
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 6
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 11
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 0,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 0,
+        "col": 16
+      },
+      "surroundingMines": 1
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 1,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 1,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 1,
+        "col": 4
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 5
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 6
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 10
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 11
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 1,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 1,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 2,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 2,
+        "col": 3
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 2,
+        "col": 4
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 5
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 9
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 2,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 2,
+        "col": 16
+      },
+      "surroundingMines": 1
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 3,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 3,
+        "col": 3
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 3,
+        "col": 4
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 5
+      },
+      "surroundingMines": 3
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 6
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 9
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 3,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 3,
+        "col": 16
+      },
+      "surroundingMines": 1
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 4,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "surroundingMines": 3
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 4,
+        "col": 4
+      },
+      "surroundingMines": 4
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 4,
+        "col": 5
+      },
+      "surroundingMines": 3
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 6
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 9
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 4,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 4,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 5,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 5,
+        "col": 4
+      },
+      "surroundingMines": 4
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 5,
+        "col": 5
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 6
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 8
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 10
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 5,
+        "col": 16
+      },
+      "surroundingMines": 1
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 6,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 4
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 5
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 6
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 8
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 6,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 10
+      },
+      "surroundingMines": 3
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 11
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 12
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 6,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 7,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 4
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 5
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 8
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 9
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 7,
+        "col": 10
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 7,
+        "col": 11
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 12
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 7,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 8,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 3
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 4
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 5
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 10
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 11
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 12
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 8,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 9,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 9,
+        "col": 1
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 9,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 9,
+        "col": 3
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 9,
+        "col": 4
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 5
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 9
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 9,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 10,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 10,
+        "col": 1
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 10,
+        "col": 2
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 10,
+        "col": 3
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 10,
+        "col": 4
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 5
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 6
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 7
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 9
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 10,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 11,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 11,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 11,
+        "col": 2
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 11,
+        "col": 3
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 11,
+        "col": 4
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 11,
+        "col": 5
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 11,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 7
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 9
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 11,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 12,
+        "col": 0
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 12,
+        "col": 1
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 12,
+        "col": 2
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 12,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 12,
+        "col": 4
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 12,
+        "col": 5
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 12,
+        "col": 6
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 7
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 8
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 10
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 12,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 4
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 5
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 8
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 13,
+        "col": 9
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 13,
+        "col": 10
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 13,
+        "col": 11
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 13,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 13,
+        "col": 13
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 13,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 13,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 13,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 2
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 4
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 5
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 8
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 14,
+        "col": 9
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 14,
+        "col": 10
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 14,
+        "col": 11
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 14,
+        "col": 12
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 14,
+        "col": 13
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 14,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 14,
+        "col": 15
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 14,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 2
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 3
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 4
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 5
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 10
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 11
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 15,
+        "col": 12
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 15,
+        "col": 13
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 15,
+        "col": 14
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 15,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 15,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ],
+  [
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 0
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 1
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 2
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 3
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 4
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 5
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 6
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 7
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 8
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 9
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 10
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 11
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 12
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 13
+      },
+      "surroundingMines": 2
+    },
+    {
+      "hasMine": true,
+      "isFlagged": false,
+      "isRevealed": false,
+      "position": {
+        "row": 16,
+        "col": 14
+      },
+      "surroundingMines": 0
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 16,
+        "col": 15
+      },
+      "surroundingMines": 1
+    },
+    {
+      "hasMine": false,
+      "isFlagged": false,
+      "isRevealed": true,
+      "position": {
+        "row": 16,
+        "col": 16
+      },
+      "surroundingMines": 0
+    }
+  ]
+]

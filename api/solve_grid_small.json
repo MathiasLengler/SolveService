@@ -1,0 +1,121 @@
+{
+  "mineProbabilities": [
+    {
+      "cell": {
+        "row": 4,
+        "col": 4
+      },
+      "probability": 0.0
+    },
+    {
+      "cell": {
+        "row": 1,
+        "col": 4
+      },
+      "probability": 1.0
+    },
+    {
+      "cell": {
+        "row": 3,
+        "col": 0
+      },
+      "probability": 1.0
+    },
+    {
+      "cell": {
+        "row": 3,
+        "col": 4
+      },
+      "probability": 1.0
+    },
+    {
+      "cell": {
+        "row": 5,
+        "col": 4
+      },
+      "probability": 0.5
+    },
+    {
+      "cell": {
+        "row": 2,
+        "col": 4
+      },
+      "probability": 0.0
+    },
+    {
+      "cell": {
+        "row": 0,
+        "col": 4
+      },
+      "probability": 0.0
+    },
+    {
+      "cell": {
+        "row": 2,
+        "col": 0
+      },
+      "probability": 1.0
+    },
+    {
+      "cell": {
+        "row": 4,
+        "col": 3
+      },
+      "probability": 0.0
+    },
+    {
+      "cell": {
+        "row": 6,
+        "col": 4
+      },
+      "probability": 0.5
+    },
+    {
+      "cell": {
+        "row": 3,
+        "col": 2
+      },
+      "probability": 1.0
+    }
+  ],
+  "clears": [
+    {
+      "row": 4,
+      "col": 3
+    },
+    {
+      "row": 4,
+      "col": 4
+    },
+    {
+      "row": 0,
+      "col": 4
+    },
+    {
+      "row": 2,
+      "col": 4
+    }
+  ],
+  "mines": [
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 2
+    },
+    {
+      "row": 1,
+      "col": 4
+    },
+    {
+      "row": 3,
+      "col": 4
+    }
+  ]
+}
