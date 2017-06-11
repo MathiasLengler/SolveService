@@ -9,5 +9,5 @@ project/boot/
 project/plugins/project/
 .cache
 .lib/
-lib/
 /minesweeper.log
+/minesweeper.log.1
