@@ -2,9 +2,9 @@ package de.htwg.sa.SolveService
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http
-import akka.http.scaladsl.server.{Directives, Route}
+import akka.http.scaladsl.server.{ Directives, Route }
 import akka.stream.ActorMaterializer
-import de.htwg.sa.SolveService.routes.{BaseRoutes, SimpleRoutes}
+import de.htwg.sa.SolveService.routes.{ BaseRoutes, SimpleRoutes }
 import org.apache.log4j.PropertyConfigurator
 
 import scala.io.StdIn

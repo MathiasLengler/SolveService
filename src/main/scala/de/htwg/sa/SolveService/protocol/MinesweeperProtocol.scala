@@ -1,12 +1,11 @@
 package de.htwg.sa.SolveService.protocol
 
-import minesweeper.model.impl.{Cell, Grid}
-import minesweeper.model.{ICell, IGrid}
+import minesweeper.model.impl.{ Cell, Grid }
+import minesweeper.model.{ ICell, IGrid }
 import minesweeper.solverplugin.impl.jacop.JacopSolver.SolveResult
 import spray.json._
 
 import scala.collection.JavaConverters._
-
 
 object MinesweeperProtocol extends DefaultJsonProtocol {
   case class Position(row: Int, col: Int)
@@ -31,10 +30,10 @@ object MinesweeperProtocol extends DefaultJsonProtocol {
     def read(value: JsValue): ICell = {
       value.asJsObject.getFields("hasMine", "isFlagged", "isRevealed", "position", "surroundingMines") match {
         case Seq(JsBoolean(hasMine),
-        JsBoolean(isFlagged),
-        JsBoolean(isRevealed),
-        position: JsObject,
-        JsNumber(surroundingMines)) =>
+          JsBoolean(isFlagged),
+          JsBoolean(isRevealed),
+          position: JsObject,
+          JsNumber(surroundingMines)) =>
           val p = position.convertTo[Position]
           val state = if (isRevealed) {
             ICell.State.OPENED
@@ -53,12 +52,14 @@ object MinesweeperProtocol extends DefaultJsonProtocol {
     def write(r: SolveResult): JsObject = {
       JsObject(
         "mineProbabilities" -> JsArray(
-          r.cellProb.asScala.map { case (cell, probability) =>
+          r.cellProb.asScala.map {
+          case (cell, probability) =>
             JsObject(
               "cell" -> cell.getPosition.toJson,
               "probability" -> JsNumber(probability)
             )
-          }.toVector),
+        }.toVector
+        ),
         "clears" -> JsArray(r.clearsToOpen.asScala.map(_.getPosition.toJson).toVector),
         "mines" -> JsArray(r.minesToFlag.asScala.map(_.getPosition.toJson).toVector)
       )
