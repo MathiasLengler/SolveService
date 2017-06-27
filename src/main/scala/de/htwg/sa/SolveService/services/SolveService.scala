@@ -26,7 +26,6 @@ object SolveService extends Directives with JsonSupport {
     post {
       entity(as[IGrid[ICell]]) { grid =>
         complete(Future {
-          // TODO: error handling
           JacopSolver.buildSolveResult(grid)
         })
       }
